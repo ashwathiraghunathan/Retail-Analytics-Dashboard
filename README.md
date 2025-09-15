@@ -17,7 +17,7 @@ It covers insights into customer behavior, sales trends, delayed orders, product
 
 ### 📂 Project Files:
 - **📥 Power BI File (PBIX)**:  
-  👉 [Download Retail_Analytics_Dashboard.pbix](https://drive.google.com/file/d/1e8fPzK4x-OCqrfxl7JGSkhQPgKaujJGT/view?usp=drive_link)
+  👉 [Download Retail_Analytics_Dashboard.pbix](https://drive.google.com/file/d/1gv77b6mEj-N7hbt7B2AzWpnbe7hto_fR/view?usp=drive_link)
 
 ---
 
