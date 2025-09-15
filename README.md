@@ -3,6 +3,9 @@
 This project provides a comprehensive analysis of retail sales performance using Power BI.  
 It covers insights into customer behavior, sales trends, delayed orders, product ratings, and more.
 
+<img width="1286" height="721" alt="image" src="https://github.com/user-attachments/assets/215dfaf1-d373-4590-9ef1-7c80cfaae35c" />
+
+
 ---
 
 ### 📊 Key Dashboard Features:
@@ -12,12 +15,6 @@ It covers insights into customer behavior, sales trends, delayed orders, product
 - State-wise and category-wise sales performance
 - Payment method distribution
 - Quarterly sales trends and year-over-year performance
-
----
-
-### 📂 Project Files:
-- **📥 Power BI File (PBIX)**:  
-  👉 [Download Retail_Analytics_Dashboard.pbix](https://drive.google.com/file/d/1gv77b6mEj-N7hbt7B2AzWpnbe7hto_fR/view?usp=drive_link)
 
 ---
 
