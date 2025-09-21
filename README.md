@@ -11,10 +11,15 @@ This project provides a comprehensive analysis of commercial datasets from a lea
 
 ### 📊 Key Dashboard Features:
 -Delayed orders vary significantly across product categories
+
 -Majority of payments were made via credit cards
+
 -State-wise sales show SP leading with over 5.2M in total sales
+
 -Identified the top 10 highest-rated and lowest-rated products
+
 -Seasonal trends show peak sales in Q2
+
 -Total revenue: 16.01M | Total sales: 13.59M | AOV: 160.99
 
 
